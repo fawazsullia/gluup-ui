@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;800&display=swap');
+
+
+.formContainer {
+    width: 35vw;
+    
+}
+
+.formInner{
+    background-color: white;
+    border-radius: 16px;
+    width: 100%;
+    min-height: 70vh;
+    padding-bottom: 10px;
+}
+
+.headerPattern{
+    width: 100%;
+}
+
+.headerPattern img{
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+
+.form{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 5px;
+
+}
+
+.form h2{
+    font-size: 32px;
+    font-weight: 800;
+    margin-top: 10px;
+}
+
+.subhead{
+    font-size: 0.8rem;
+    margin-top: -20px;
+}
+
+.googleContainer{
+    box-sizing: border-box;
+    width: 100%;
+    background-color: #F5F5F5;
+    padding: 10px;
+    font-size: 0.8rem;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+
+.emailContainer{
+    font-size: 0.75rem;
+    color: red;
+    margin-bottom: 5px;
+}
+
+.emailInput {
+    box-sizing: border-box;
+    width: 100%;
+    height: 40px;
+    padding: 5px 0px 5px 10px;
+    font-size: 0.9rem;
+    border-radius: 8px;
+    border: solid 1px #0B0B0E;
+    outline: none;
+    font-weight: 400;
+}
+
+.form button{
+    width: 100%;
+    height: 40px;
+    border: none;
+    margin-top: 10px;
+    background-color: #0B0B0E;
+    color: white;
+    border-radius: 8px;
+    font-weight: 600;
+}   
+
+
+
+.endText{
+    margin: 10px auto auto auto;
+    width: 50%;
+    font-size: 0.8rem;
+
+}
